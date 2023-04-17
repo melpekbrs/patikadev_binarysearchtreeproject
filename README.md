@@ -1,4 +1,5 @@
 # patikadev_binarysearchtreeproject
+* 
 * [7,5,1,8,3,6,0,9,4,2]
 * root 7 dir
 * 7 nin solunda 5 vardır
